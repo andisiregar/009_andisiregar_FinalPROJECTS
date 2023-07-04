@@ -30,8 +30,11 @@ nav{
     height:60px;
     background-color:#FFFFFF;
     box-shadow:2px 2px 12px rgba(0,0,0,0.2);
-    padding:0px 5%;
-     
+    padding:0px 5%;  
+}
+
+span{
+    color: orange;
 }
 nav ul{
     display: flex;
@@ -113,12 +116,13 @@ nav ul li a{
 .hire-btn{
     border: 2px solid #373636;
     color: #373636;
+    background-color: rgb(252, 165, 4);
 }
  
 button:active{
     transform: scale(1.1);
 }
- 
+
 .model{
     height: 350px;
     width: 250px;
