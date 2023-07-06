@@ -1,0 +1,22 @@
+Aplikasi ini saya buat dengan mengambil templete di internet.
+Salu saya modifikasi dengan menjalankan semua file di VSCODE (HTML, CSS dan Javascript)
+
+Yang mana aplikasi ini membuat landing page portofolio dengan 1 page dan 6 tombol menu yang mana:
+Menu - menu adalah :
+1. about 
+   Menceritakan tetang portofolio saya
+2. experience
+   Pengalaman Kerja saya selama menjadi IT Support
+3. education
+   Pendidikan Formal dan Experience saya di dunia kerja
+4. skill
+   Skil yang saya dapetkan selama di dunia kerja
+5. interest
+   Saya juga memaparkan mengenai hobby saya
+6. award
+   pencapain saya selama bekerja di dunia IT
+
+
+
+Link Templete:
+https://bootstrapmade.com/bootstrap-portfolio-templates/.

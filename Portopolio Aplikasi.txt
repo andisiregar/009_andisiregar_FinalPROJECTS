@@ -1,0 +1,27 @@
+Portopolio Aplikasi:
+
+Aplikasi di buat dengan HTML, CSS dan Javascript dan di coding HTML, CSS dan Javascript dengan VSCODE.
+
+Yang mana aplikasi ini membuat landing page portofolio yang mana:
+Menu - menu adalah :
+1. about 
+   Menceritakan tetang portofolio saya
+2. experience
+   Pengalaman Kerja saya selama menjadi IT Support
+3. education
+   Pendidikan Formal dan Experience saya di dunia kerja
+4. skill
+   Skil yang saya dapetkan selama di dunia kerja
+5. interest
+   Saya juga memaparkan mengenai hobby saya
+6. award
+   pencapain saya selama bekerja di dunia IT
+
+Aplikasi ini saya buat dari templet di link : https://bootstrapmade.com/bootstrap-portfolio-templates/.
+dengan cara memodifikasi templete yang ada dan menambahkan yang kurang di dalam templete
+
+Semoga dengan mengerjakan tugas final project ini saya dapat lebih memahami mengenai Wed Development dengan bai
+
+
+Sebelum dan sesudah nya saya ucapkan ke pada Hactiv8 dan Pak Arif
+
